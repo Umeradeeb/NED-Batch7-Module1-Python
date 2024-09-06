@@ -1,0 +1,3 @@
+https://github.com/SajidMajeed92/UGD-Python/blob/main/Python%20code%20Lectures/Python_Operators.ipynb
+
+https://github.com/SajidMajeed92/PGD-Python-DS-AI-Batch-7/blob/main/Notebooks/Week%202/week2_Day4.ipynb
